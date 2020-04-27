@@ -1,0 +1,15 @@
+{
+  "name": "test-truex-js-integrations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truex/js-ad-client": "0.0.11",
+    "jsdom": "^16.2.2"
+  }
+}
